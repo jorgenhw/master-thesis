@@ -1,3 +1,4 @@
+```
 project-root/
 │
 ├── config/
@@ -32,3 +33,4 @@ project-root/
 ├── schemas.py            # Data schemas/Pydantic models
 ├── main.py               # Main execution script
 └── requirements.txt
+```
